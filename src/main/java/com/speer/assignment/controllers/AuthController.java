@@ -1,4 +1,4 @@
-package com.speer.assignment;
+package com.speer.assignment.controllers;
 
 import com.speer.assignment.dto.LoginDto;
 import com.speer.assignment.dto.UserDto;
